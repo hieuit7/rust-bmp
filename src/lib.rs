@@ -79,7 +79,7 @@ macro_rules! file_size {
 pub mod consts;
 
 mod decoder;
-mod encoder;
+pub mod encoder;
 
 #[derive(Clone, Debug, Eq, PartialEq)]
 enum BmpVersion {

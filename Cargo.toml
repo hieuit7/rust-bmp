@@ -1,6 +1,6 @@
 [package]
 
-name = "bmp"
+name = "bmp-encoder"
 version = "0.1.4"
 authors = ["Sondre Lefsaker"]
 
